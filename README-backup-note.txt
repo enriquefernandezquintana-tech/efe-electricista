@@ -1,0 +1,1 @@
+Backup marker for the website redesign performed by ChatGPT on 2026-09-23. The redesign keeps the existing public contact details and improves conversion, SEO, accessibility and mobile UX.
