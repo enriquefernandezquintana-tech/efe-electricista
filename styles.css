@@ -47,3 +47,5 @@ a{transition:color .2s,background .2s,border-color .2s,transform .2s,box-shadow 
 }
 
 @media(max-width:850px){.nav:not(:has(.menu)) .links{display:flex;flex:1;justify-content:flex-end;gap:10px;flex-wrap:wrap}.nav:not(:has(.menu)) .links a{font-size:11px}.nav:not(:has(.menu)) .nav-call{white-space:nowrap}}
+
+.town-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.town-actions a{display:inline-flex;padding:8px 10px;border:1px solid #333;border-radius:9px;color:#ffd400;text-decoration:none;font-size:12px;font-weight:800;background:#0b0b0b}.town-actions a:hover{border-color:#ffd400;background:#161616;transform:translateY(-1px)}.zones .card h3{font-size:18px}.zones .cards{align-items:stretch}
